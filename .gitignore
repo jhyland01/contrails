@@ -1,0 +1,6 @@
+*.csv
+*.json
+flair/
+notebooks/lightning_logs/
+notebooks/models/
+test/
